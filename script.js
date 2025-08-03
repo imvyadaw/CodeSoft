@@ -7,6 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const erasingSpeed = 50;
   const newWordDelay = 2000;
 
+  
   function type() {
       if (charIndex < words[wordIndex].length) {
           currentWord += words[wordIndex].charAt(charIndex);
