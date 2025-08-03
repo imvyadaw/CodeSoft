@@ -94,6 +94,17 @@ nav ul img{
   border-radius: 5px;
   transition: background-color 0.3s;
 }
+.Resume{
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #00f0ff;
+  color: #09131c;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
 
 .btn:hover {
   background-color: #00c4ff;
